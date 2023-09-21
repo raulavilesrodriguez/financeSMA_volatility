@@ -1,0 +1,15 @@
+library(devtools)
+library(blotter)
+library(quantstrat)
+library(quantmod)
+library(FinancialInstrument)
+library(PerformanceAnalytics)
+library(foreach)
+library(tidyverse) 
+library(dplyr) 
+library(TTR)
+library("IRdisplay")
+library(highcharter) #Interactive Plot
+library(devtools)
+library(yahoofinancer)
+
